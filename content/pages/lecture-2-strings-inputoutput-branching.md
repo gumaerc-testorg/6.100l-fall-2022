@@ -7,7 +7,7 @@ uid: 21c977d4-756e-4fd5-bd9e-4d7813afb318
 ---
 **Topics:** Core Elements of Programs: strings, input/output, f-strings, operators, branching, indentation
 
-{{< resource uuid="2b8f1d36-7875-4884-87a5-4bd88e62609e" >}}
+{{< resource uuid="f8c96114-7906-4798-ba9c-bd60d471ae1c" >}}
 
 ## Lecture Notes
 

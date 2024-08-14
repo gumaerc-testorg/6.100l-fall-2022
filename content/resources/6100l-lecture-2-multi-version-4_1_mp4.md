@@ -1,9 +1,9 @@
 ---
 body: ''
 content_type: resource
-draft: true
-file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi_360p_16_9.mp4
-file_size: 142391882
+draft: false
+file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi-version-4_1_360p_16_9.mp4
+file_size: 143650441
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -13,13 +13,13 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 2: Strings, Input/Output, and Branching (old)'
-uid: 2b8f1d36-7875-4884-87a5-4bd88e62609e
+title: 'Lecture 2: Strings, Input/Output, and Branching'
+uid: f8c96114-7906-4798-ba9c-bd60d471ae1c
 video_files:
   archive_url: ''
-  video_captions_file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/1GwFNd7NQwh7eiLGgzsOKjCcsfxsmqp_q_transcript.webvtt
-  video_thumbnail_file: https://img.youtube.com/vi/mdK7bbrv3ls/default.jpg
-  video_transcript_file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/1GwFNd7NQwh7eiLGgzsOKjCcsfxsmqp_q_transcript.pdf
+  video_captions_file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi-version-4_1_captions.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/UdEX0E9lIQM/default.jpg
+  video_transcript_file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi-version-4_1_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: python programming, string variables, input/output, i/o, operators
@@ -36,6 +36,6 @@ video_metadata:
     \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
     \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
     \ may be removed. More details at https://ocw.mit.edu/comments."
-  youtube_id: mdK7bbrv3ls
+  youtube_id: UdEX0E9lIQM
 ---
 This lecture discusses the core elements of programs: strings, input/output, f-strings, operators, branching, and indentation. Big idea: Debug early, debug often. Write a little and test a little. Don’t write a complete program at once. It introduces too many errors. Use the Python Tutor to step through code when you see something unexpected!
