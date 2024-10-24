@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/mit6_100l_f22_rec05.zip
+file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/mit6_100l_f22_rec05.zip
 file_size: 19200
 file_type: application/zip
 image_metadata:
