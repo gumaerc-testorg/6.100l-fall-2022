@@ -2,19 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/mit6_100l_f22_lec26.pdf
-file_size: 1317110
-file_type: application/pdf
+file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi-version-4_1_captions.vtt
+file_size: 160305
+file_type: text/vtt
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Notes
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'Lecture 26: List Access, Hashing, Simulations, and Wrap-Up'
-uid: f33faa01-a881-49cc-b693-071be96a2d7e
+title: 6.100L Lecture 2 Multi Version 4_1_captions.vtt
+uid: 41511576-424d-4289-95d6-b12e27279216
 video_files:
   archive_url: ''
   video_captions_file: ''

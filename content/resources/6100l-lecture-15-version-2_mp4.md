@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-15-version-2_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-15-version-2_360p_16_9.mp4
 file_size: 77457829
 file_type: video/mp4
 image_metadata:
