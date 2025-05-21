@@ -2,15 +2,14 @@
 body: ''
 content_type: resource
 draft: true
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi_360p_16_9.mp4
+file: courses/6100l-introduction-to-cs-and-programming-using-python/6100l-lecture-2-multi_360p_16_9.mp4
 file_size: 142391882
 file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Lecture Videos
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
 title: 'Lecture 2: Strings, Input/Output, and Branching (old)'

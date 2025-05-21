@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-10-version-3_1_360p_16_9.mp4
+file: courses/6100l-introduction-to-cs-and-programming-using-python/6100l-lecture-10-version-3_1_360p_16_9.mp4
 file_size: 113788561
 file_type: video/mp4
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 10: Lists and Mutability (FIXED)'
+title: 'Lecture 10: Lists and Mutability'
 uid: 9df98cc3-2dcf-4d5b-b052-b77c382c8bef
 video_files:
   archive_url: ''

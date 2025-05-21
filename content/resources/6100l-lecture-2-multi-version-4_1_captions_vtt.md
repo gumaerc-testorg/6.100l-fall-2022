@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-2-multi-version-4_1_captions.vtt
+file: courses/6100l-introduction-to-cs-and-programming-using-python/6100l-lecture-2-multi-version-4_1_captions.vtt
 file_size: 160305
 file_type: text/vtt
 image_metadata:

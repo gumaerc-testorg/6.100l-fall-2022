@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/mit6_100l_f22_ex23_sol.pdf
+file: courses/6100l-introduction-to-cs-and-programming-using-python/mit6_100l_f22_ex23_sol.pdf
 file_size: 157008
 file_type: application/pdf
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Programming Assignments with Examples
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 6.100L Finger Exercises Lecture 23 Solutions
+title: Finger Exercises Lecture 23 Solutions
 uid: f0af762d-78de-4fc0-869a-63a9a2e87296
 video_files:
   archive_url: ''
