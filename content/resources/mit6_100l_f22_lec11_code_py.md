@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/mit6_100l_f22_lec11_code.py
+file: courses/6100l-introduction-to-cs-and-programming-using-python/mit6_100l_f22_lec11_code.py
 file_size: 6993
 file_type: text/x-python-script
 image_metadata:
