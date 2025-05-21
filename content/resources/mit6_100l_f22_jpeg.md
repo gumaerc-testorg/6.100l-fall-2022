@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/mit6_100l_f22.jpeg
+file: courses/6100l-introduction-to-cs-and-programming-using-python/mit6_100l_f22.jpeg
 file_size: 153564
 file_type: image/jpeg
 image_metadata:
@@ -16,7 +16,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
-title: mit6_100l_f22.jpeg
+title: Fibonacci Sequence in Nature
 uid: b3cb1c7c-0662-40b0-b109-4bcad6b5f705
 video_files:
   archive_url: ''
