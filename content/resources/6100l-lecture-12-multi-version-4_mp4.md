@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-12-multi-version-4_360p_16_9.mp4
+file: courses/6100l-introduction-to-cs-and-programming-using-python/6100l-lecture-12-multi-version-4_360p_16_9.mp4
 file_size: 131704846
 file_type: video/mp4
 image_metadata:
@@ -13,8 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 12: List Comprehension, Functions as Objects, Testing, and Debugging
-  (FIXED)'
+title: 'Lecture 12: List Comprehension, Functions as Objects, Testing, and Debugging'
 uid: d79da415-d43f-4e06-a7f6-7b6c1743b77b
 video_files:
   archive_url: ''

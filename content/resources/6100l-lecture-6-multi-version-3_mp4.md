@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/6100l-lecture-6-multi-version-3_360p_16_9.mp4
+file: courses/6100l-introduction-to-cs-and-programming-using-python/6100l-lecture-6-multi-version-3_360p_16_9.mp4
 file_size: 138327969
 file_type: video/mp4
 image_metadata:
@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 6: Bisection Search (FIXED)'
+title: 'Lecture 6: Bisection Search'
 uid: 368787d0-c418-44da-aa7a-e7214a3abed7
 video_files:
   archive_url: ''
