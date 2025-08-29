@@ -42,7 +42,7 @@ Assume you are given a string variable named `my_str`. Write a piece of Python c
 
 ## Finger Exercise Lecture 6
 
-Assume you are given an integer 0 \\\\\<= N \\\\\<= 1000. Write a piece of Python code that uses bisection search to guess N. The code prints two lines: `count:` with how many guesses it took to find N, and `answer:` with the value of N. Hints: If the halfway value is exactly in between two integers, choose the smaller one.
+Assume you are given an integer \\(0 <= N <= 1000\\). Write a piece of Python code that uses bisection search to guess N. The code prints two lines: `count:` with how many guesses it took to find N, and `answer:` with the value of N. Hints: If the halfway value is exactly in between two integers, choose the smaller one.
 
 {{% resource_link "7887b2cc-3d12-4dee-ab69-0de71020d95d" "6.100L Finger Exercises Lecture 6 Solutions" %}}
 
@@ -455,8 +455,8 @@ class Queue(Container):
 
 ## Finger Exercise Lecture 22
 
-Question 1: Simplify `n*n + log(n) + 2**a` to determine θ in terms of `n`.                    
-Question 2: Simplify `2**n + n*log(n) + n**2` to determine θ in terms of `n`.                    
+Question 1: Simplify `n*n + log(n) + 2**a` to determine θ in terms of `n`.  
+Question 2: Simplify `2**n + n*log(n) + n**2` to determine θ in terms of `n`.  
 Question 3: Simplify `f*log(f) + 100000 + 300*a + x*y*z` to determine θ in terms of `n`.
 
 {{% resource_link "0696c1c8-078c-42db-b4c3-f6fe8614733d" "6.100L Finger Exercises Lecture 22 Solutions" %}}

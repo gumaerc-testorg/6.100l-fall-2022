@@ -21,6 +21,6 @@ Ch 3.4, 3.5
 
 ## Finger Exercise Lecture 6
 
-Assume you are given an integer 0 \\\\\<= N \\\\\\\<= 1000. Write a piece of Python code that uses bisection search to guess N. The code prints two lines: `count:` with how many guesses it took to find N, and `answer:` with the value of N. Hints: If the halfway value is exactly in between two integers, choose the smaller one.
+Assume you are given an integer \\(0 <= N <=1000\\). Write a piece of Python code that uses bisection search to guess N. The code prints two lines: `count:` with how many guesses it took to find N, and `answer:` with the value of N. Hints: If the halfway value is exactly in between two integers, choose the smaller one.
 
-\<a href="https://ocw-studio.odl.mit.edu/sites/6100l-introduction-to-cs-and-programming-using-python/type/resource/edit/7887b2cc-3d12-4dee-ab69-0de71020d95d/?ocw_resource_link_uuid=7887b2cc-3d12-4dee-ab69-0de71020d95d&ocw_resource_link_suffix=">6.100L Finger Exercises Lecture 6 Solutions\</a>
+{{% resource_link "7887b2cc-3d12-4dee-ab69-0de71020d95d" "6.100L Finger Exercises Lecture 6 Solutions" %}}
