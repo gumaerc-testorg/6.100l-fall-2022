@@ -3,22 +3,26 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
+- identifier: a85be76d-baf6-4737-ba1c-b7cb3fb12697
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
 - identifier: 689cf52a-0586-489e-ac3e-d528a3554eb8
   name: Calendar
   pageRef: /pages/calendar
-  weight: 20
+  weight: 30
 - identifier: b51259f6-3e24-43ba-b2b4-bc746e4cf49a
   name: Readings
   pageRef: /pages/readings
-  weight: 30
+  weight: 40
 - identifier: c5ae9d53-45ba-4be7-a516-847ac24c4b45
   name: Materials by Lecture
   pageRef: /pages/material-by-lecture
-  weight: 40
+  weight: 50
 - identifier: ad94fe13-f188-4782-a0de-03a75b843d60
   name: Materials by Type
   pageRef: /pages/materials-by-type
-  weight: 50
+  weight: 60
 - identifier: fc8329cf-cf38-41d0-a545-0de6673a9202
   name: Lecture Videos
   pageRef: /video_galleries/lecture-videos

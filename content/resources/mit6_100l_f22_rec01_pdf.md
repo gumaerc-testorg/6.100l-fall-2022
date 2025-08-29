@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/6100l-introduction-to-cs-and-programming-using-python/mit6_100l_f22_rec01.pdf
+file: /ol-ocw-studio-app/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/mit6_100l_f22_rec01.pdf
 file_size: 141646
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Recitation Notes
+- Problem-solving Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: Recitation 1 Notes
