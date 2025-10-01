@@ -15,7 +15,7 @@ No prerequisites.
 
 ## Course Description
 
-This class is a full-semester version of 6.100A (formerly [*6.0001 Introduction to Computer Science and Programming in Python*](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)). The material covered is the same, but the pace is slowed down. Our goal with this course is to give students who have never programmed the time to practice the concepts.
+This class is a full-semester version of 6.100A (formerly {{% resource_link "fef252c4-41cf-431a-8975-136f20b3e8a8" "*6.0001 Introduction to Computer Science and Programming in Python*" %}}). The material covered is the same, but the pace is slowed down. Our goal with this course is to give students who have never programmed the time to practice the concepts.
 
 This subject is aimed at students with little to no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, feel justifiably confident in their ability to write simple programs that allow them to accomplish useful goals. The class will use the Python 3 programming language.
 
@@ -27,7 +27,7 @@ This subject is aimed at students with little to no programming experience. It a
 
 ## Textbook
 
-The textbook is John Guttag's *Introduction to Computation and Programming Using Python, Third Edition, with Application to Computational Modeling and Understanding Data,* MIT Press. ISBN: 9780262542364. \[[Buy at MIT Press](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/)\] The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book. See the [code and errata](https://github.com/guttag/Intro-to-Computation-and-Programming) for the book.
+The textbook is John Guttag's *Introduction to Computation and Programming Using Python, Third Edition, with Application to Computational Modeling and Understanding Data,* MIT Press. ISBN: 9780262542364. \[{{% resource_link "18f8664e-1a47-408b-b374-16e5f3297582" "Buy at MIT Press" %}}\] The book and the course lectures parallel each other, though there is more detail in the book about some topics. It is available both in hard copy and as an e-book. See the {{% resource_link "fc37a591-5fec-46e2-ab66-7e6517bbb976" "code and errata" %}} for the book.
 
 ## Grading Policy 
 

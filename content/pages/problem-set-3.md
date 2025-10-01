@@ -28,7 +28,7 @@ Download the file **1\_ps3.zip** and extract all files to the same directory. Th
 
 ### B) Document Distance Overview
 
-Given two words or documents, you will calculate a score between 0 and 1 that will tell you how similar they are. If the words or documents are the same, they will get a score of 1. If the documents are completely different, they will get a score of 0. You will calculate the score in two different ways and observe whether one works better than the other. The first way will use single word frequencies in the two texts. The second will use the [TF-IDF (Term Frequency-Inverse Document Frequency)](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) of words in a file.
+Given two words or documents, you will calculate a score between 0 and 1 that will tell you how similar they are. If the words or documents are the same, they will get a score of 1. If the documents are completely different, they will get a score of 0. You will calculate the score in two different ways and observe whether one works better than the other. The first way will use single word frequencies in the two texts. The second will use the {{% resource_link "76e95ee7-5d78-40b3-9738-81d724691645" "TF-IDF (Term Frequency-Inverse Document Frequency)" %}} of words in a file.
 
 **Note that you do NOT need to worry about case sensitivity throughout this pset. All inputs will be lower case.**
 
@@ -242,7 +242,7 @@ IDF(�)=log⁡10(total number of documentsnumber of documents with word�
 
 where log⁡10log10​ is log base 10 and can be called with `math.log10`.
 
-We can then combine TF and IDF to form TF-IDF(�)=TF(�)×IDF(�)TF-IDF(*w*)=TF(*w*)×IDF(*w*), where the higher the value, the rarer the term and vice versa. For this pset, we'll only be working with individual words, but TF-IDF works for larger groupings of words as well (e.g. [bigrams, trigrams, etc.](https://en.wikipedia.org/wiki/N-gram)).
+We can then combine TF and IDF to form TF-IDF(�)=TF(�)×IDF(�)TF-IDF(*w*)=TF(*w*)×IDF(*w*), where the higher the value, the rarer the term and vice versa. For this pset, we'll only be working with individual words, but TF-IDF works for larger groupings of words as well (e.g. {{% resource_link "be6934f3-257c-4bb8-905f-664a20c61bc0" "bigrams, trigrams, etc." %}}).
 
 For the `**get_tf**` function that you'll implement, you'll be given a file name stored in a variable named `text_file`. You will need to load the file, prep the data, and **determine the TF value** of each word that appears in `text_file`. The output should be a dictionary mapping each word to its TF. Think about how you could re-use previous functions.
 
