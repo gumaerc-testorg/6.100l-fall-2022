@@ -8,10 +8,10 @@ file_type: image/jpeg
 image_metadata:
   caption: 'Flowers are an example of the Fibonacci sequence in nature. The Fibonacci
     sequence is a classic example of a recursive function, as discussed in lectures
-    15 and 16. (Image courtesy of [Arthur T. LaBar](https://flic.kr/p/2hb11de) on
-    Flickr. License: CC BY.)'
-  credit: 'Image courtesy of [Arthur T. LaBar](https://flic.kr/p/2hb11de) on Flickr.
-    License: CC BY.'
+    15 and 16. (Image courtesy of {{% resource_link "8f737abc-871e-4d03-8e25-96d9018c291b"
+    "Arthur T. LaBar" %}} on Flickr. License: CC BY.)'
+  credit: 'Image courtesy of {{% resource_link "8f737abc-871e-4d03-8e25-96d9018c291b"
+    "Arthur T. LaBar" %}} on Flickr. License: CC BY.'
   image-alt: 'Closeup of sunflower petals and seeds. '
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -29,4 +29,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Flowers are an example of the Fibonacci sequence in nature. The Fibonacci sequence is a classic example of a recursive function, as discussed in lectures 15 and 16. (Image courtesy of [Arthur T. LaBar](https://flic.kr/p/2hb11de) on Flickr. License: CC BY.)
+Flowers are an example of the Fibonacci sequence in nature. The Fibonacci sequence is a classic example of a recursive function, as discussed in lectures 15 and 16. (Image courtesy of {{% resource_link "8f737abc-871e-4d03-8e25-96d9018c291b" "Arthur T. LaBar" %}} on Flickr. License: CC BY.)
