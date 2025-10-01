@@ -5,7 +5,7 @@ draft: false
 title: Readings
 uid: b51259f6-3e24-43ba-b2b4-bc746e4cf49a
 ---
-The textbook is John Guttag's *Introduction to Computation and Programming Using Python, Third Edition, with Application to Computational Modeling and Understanding Data*, MIT Press. ISBN: 9780262542364. \[[Buy at MIT Press](https://mitpress.mit.edu/9780262542364/introduction-to-computation-and-programming-using-python/)\] The book and the course lectures parallel each other, though there is more detail in the book about some topics. View [code and errata](https://github.com/guttag/Intro-to-Computation-and-Programming) for the book.
+The textbook is John Guttag's *Introduction to Computation and Programming Using Python, Third Edition, with Application to Computational Modeling and Understanding Data*, MIT Press. ISBN: 9780262542364. \[{{% resource_link "18f8664e-1a47-408b-b374-16e5f3297582" "Buy at MIT Press" %}}\] The book and the course lectures parallel each other, though there is more detail in the book about some topics. View {{% resource_link "fc37a591-5fec-46e2-ab66-7e6517bbb976" "code and errata" %}} for the book.
 
 **Lecture 1:** Ch 1, Ch 2.1–2.2
 
